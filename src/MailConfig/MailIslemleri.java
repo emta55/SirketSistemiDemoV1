@@ -8,8 +8,8 @@ import javax.mail.internet.MimeMessage;
 
 public class MailIslemleri {
     
-    private String mailAdresim = "sirketsmssistemi@gmail.com";
-    private String mailSifrem = "ysuivxflxlxddodz";
+    private String mailAdresim = "Kendi Sirketinizin Email Adresi";
+    private String mailSifrem = "Sirket Email Adresinizin Sifresi";
     private String sifreKurtarmaKodu = "";
     private String mailIcerigi_1 = "Merhaba,\n\nŞifrenizi Öğrenmek İçin Aşağıdaki Kodu Kullanınız:\n\n";
     private String mailIcerigi_2 = "\n\nİyi Günler..";
